@@ -4,6 +4,14 @@ A Vue2 component to add IntersectionObserver and MutationObserver to Vue2 compon
 
 ## Usage
 
+step one
+
+```bash
+npm i @vsirrr/vue-exposure
+```
+
+step two
+
 ```html
 <template>
   <VueExposure @exposure="exposure">
@@ -13,7 +21,7 @@ A Vue2 component to add IntersectionObserver and MutationObserver to Vue2 compon
 </template>
 
 <script>
-  import VueExposure from 'VueExposure'
+  import VueExposure from '@vsirrr/vue-exposure'
 
   export default {
     components: {
