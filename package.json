@@ -1,6 +1,6 @@
 {
 	"name": "@vsirrr/vue-exposure",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"private": false,
 	"main": "./dist/vue-exposure.min.js",
 	"module": "./dist/vue-exposure.min.js",
