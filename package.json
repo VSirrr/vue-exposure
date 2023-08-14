@@ -1,6 +1,6 @@
 {
 	"name": "@vsirrr/vue-exposure",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"private": false,
 	"main": "./dist/vue-exposure.min.js",
 	"module": "./dist/vue-exposure.min.js",
@@ -33,7 +33,7 @@
 	"scripts": {
 		"dev": "rollup -c -w",
 		"build": "rollup -c",
-		"prepublish": "npm run build",
+		"prepublishOnly": "npm run build",
 		"publish": "npm publish"
 	},
 	"devDependencies": {
