@@ -1,6 +1,6 @@
 # VueExposure
 
-A Vue component to add IntersectionObserver and MutationObserver to Vue component or HTML element.
+A Vue2 component to add IntersectionObserver and MutationObserver to Vue2 component or HTML element.
 
 ## Usage
 
